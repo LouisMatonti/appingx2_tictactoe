@@ -8,6 +8,9 @@ import kotlinx.android.synthetic.main.game.*
 
 
 class SecondActivity : AppCompatActivity(), View.OnClickListener {
+    override fun onClick(v: View?) {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    }
 
     @SuppressLint("SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
